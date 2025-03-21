@@ -5,11 +5,11 @@ These results pertain to the eigenvalue and eigenvector sensitivities that are p
 
 The results are organized by the traditional dynamic modes according to the labels
 
-LP - Long-period mode
-SP - Short-period mode
-DR - Dutch-roll mode
-RL - Roll mode
-SR - Spiral mode
+LP - Long-period mode, 
+SP - Short-period mode, 
+DR - Dutch-roll mode,
+RL - Roll mode,
+SR - Spiral mode,
 
 the bank angle, either phi_0 or phi_45, and the derivatives or inertia components that are varied.
 
